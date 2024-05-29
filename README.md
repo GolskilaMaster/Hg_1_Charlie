@@ -1,2 +1,5 @@
-# Hg_1_Charlie
-Actividad grupal Hacks_2
+# Charlie, jonathan
+
+- [] Alfa, Samuel, Caracas
+- [] Bravo, Christian, Caracas
+- []-Charlie, Jonathan, Miranda
